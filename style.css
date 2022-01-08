@@ -1,0 +1,41 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-family: 'Karla', sans-serif;
+  background-image:url(https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) ;
+}
+span
+{
+  font-size: 30px;
+}
+#snapshot
+{
+  border: 2px dashed black;
+  width: 300px;
+  height: 200px; 
+  
+}
+#emotion_results ,#emotion_results2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 25px;
+  font-family: 'Karla', sans-serif;
+  letter-spacing:10px;
+}
+#pe{
+  margin-top:100px;
+}
+#emoji_results,#emoji_results2{
+  font-size:40px;
+}
